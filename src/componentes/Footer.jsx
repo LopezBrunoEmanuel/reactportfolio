@@ -1,6 +1,7 @@
 function Footer (){
   return (
     <div>
+      <hr />
       <a href="https://www.facebook.com/" target="blank">Facebook</a>
       <a href="https://www.instagram.com/" target="blank">Instagram</a>
       <a href="https://github.com/" target="blank">GitHub</a>
