@@ -1,6 +1,8 @@
+import "../css/Footer.css"
+
 function Footer (){
   return (
-    <div>
+    <div className="Footer">
       <hr />
       <a href="https://www.facebook.com/" target="blank">Facebook</a>
       <a href="https://www.instagram.com/" target="blank">Instagram</a>

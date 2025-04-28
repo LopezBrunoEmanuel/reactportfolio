@@ -16,7 +16,9 @@ export const Home = () => {
   return (
     <div>
       <Header/>
+      <br />
       <Main Alumno={Alumno} />
+      <br />
       <Footer/>
       </div>
 
